@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 😄 Tags
+#### 😄 Tags ...
 - Undergraduate student in NCEPU
 - nameless coder
 
-#### 🔭 I'm currently working on
+#### 🔭 I'm currently working on ...
 - Deep learning
 
-#### 🌱 I'm currently learning
+#### 🌱 I'm currently learning ...
 - TOEFL
