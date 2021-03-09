@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 😄 Tags
+- Undergraduate student in NCEPU
+- nameless coder
+
+#### 🔭 I'm currently working on
+- Deep learning
+
+#### 🌱 I'm currently learning
+- TOEFL
