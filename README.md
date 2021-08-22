@@ -14,13 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Blog](https://img.shields.io/badge/-Blog-brightgreen)](http://blog.edlison.cc)
+![GitHub followers](https://img.shields.io/github/followers/edlison?style=social)
+
+
+
 
 #### 😄 Tags ...
 - Undergraduate student in NCEPU
-- nameless coder
 
 #### 🔭 I'm currently working on ...
 - Deep learning
 
 #### 🌱 I'm currently learning ...
 - TOEFL
+
+
+</br>
+
+<div>
+<a href="https://github.com/edlison">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edlison&theme=dark&show_icons=true" height="200"/>
+</a>
+<a href="https://github.com/edlison">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlison&layout=compact&theme=dark&show_icons=true" height="200"/>
+</a>
+</div>
+
+</br>
+
+<!--![hits](http://visitor-badge-reloaded.herokuapp.com/badge?page_id=edlison.edlison&text=Page_Views&style=for-the-badge&non-unique=true)
+-->
