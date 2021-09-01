@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Blog](https://img.shields.io/badge/-Blog-brightgreen)](http://blog.edlison.cc)
+[![Blog](https://img.shields.io/badge/-Blog-brightgreen)](http://blog.edlison.com)
 ![GitHub followers](https://img.shields.io/github/followers/edlison?style=social)
 
 
