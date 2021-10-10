@@ -14,15 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Blog](https://img.shields.io/badge/-Blog-brightgreen)](http://blog.edlison.com)
+
 ![GitHub followers](https://img.shields.io/github/followers/edlison?style=social)
+
+</br>
+
+[![tg](https://img.shields.io/badge/telegram-edlison-orange)](https://t.me/edlison)
+[![hp](https://img.shields.io/badge/-homepage-orange)](https://edlison.com)
+[![blog](https://img.shields.io/badge/blog-edlison-orange)](https://blog.edlison)
 
 
 
 
 #### 😄 Tags ...
 - Undergraduate student in NCEPU
-- working on Deep learning
+- dive in Deep learning
 
 
 </br>
@@ -30,9 +36,6 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/edlison">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edlison&theme=dark&show_icons=true" height="200"/>
-</a>
-<a href="https://github.com/edlison">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlison&layout=compact&theme=dark&show_icons=true" height="200"/>
 </a>
 </div>
 
