@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/edlison?style=social)
 
 [![hp](https://img.shields.io/badge/-homepage-orange)](https://edlison.com)
-[![blog](https://img.shields.io/badge/blog-edlison-orange)](https://blog.edlison)
+[![blog](https://img.shields.io/badge/blog-edlison-orange)](https://blog.edlison.com)
 [![tg](https://img.shields.io/badge/telegram-edlison-orange)](https://t.me/edlison)
 
 
