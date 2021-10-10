@@ -22,12 +22,7 @@ Here are some ideas to get you started:
 
 #### 😄 Tags ...
 - Undergraduate student in NCEPU
-
-#### 🔭 I'm currently working on ...
-- Deep learning
-
-#### 🌱 I'm currently learning ...
-- TOEFL
+- working on Deep learning
 
 
 </br>
