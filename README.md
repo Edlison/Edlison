@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Focusing on Graph Neural Network
 
 
-</br>
+<!-- </br>
 
 <div>
 <a href="https://github.com/edlison">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-</br>
+</br> -->
 
 <!--![hits](http://visitor-badge-reloaded.herokuapp.com/badge?page_id=edlison.edlison&text=Page_Views&style=for-the-badge&non-unique=true)
 -->
