@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 
 
 #### 😄 Tags ...
+- Doctor of Philosophy Student, Computer Science, Florida State University
 - Master's degree, Data Science and Machine Learning, University of Michigan
 - Bachelor's degree, Computer Science, North China Electric Power University
-- Focusing on Graph Neural Network
+- Graph Learning, Data Mining
 
 
 <!-- </br>
